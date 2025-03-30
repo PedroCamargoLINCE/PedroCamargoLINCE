@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @PedroCamargoLINCE
 - 👀 I’m interested in Machine Learning/Deep Learning
 - 🌱 I’m currently learning time series forecasting
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: message me in here or Kaggle
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: 	┌(◉ ͜ʖ◉)つ┣▇▇▇═──
 
 <!---
